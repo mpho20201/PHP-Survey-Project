@@ -26,9 +26,4 @@ This is a simple web application to collect and analyze survey responses about p
 ## 🎥 Demo
 👉 [Link to demo video]
 
-## 📬 Submission
-Email sent to `internship@tshimologong.joburg` with video and repo link.
 
----
-
-Let me know if you need help recording the video, pushing to GitHub, or writing any part of the README. I can generate or edit any of these for you.
