@@ -1,0 +1,12 @@
+CREATE TABLE surveys (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    full_name VARCHAR(100) NOT NULL,
+    email VARCHAR(100) NOT NULL,
+    dob DATE NOT NULL,
+    contact_number VARCHAR(20) NOT NULL,
+    favorite_food VARCHAR(255) NOT NULL,
+    movies_rating INT NOT NULL,
+    radio_rating INT NOT NULL,
+    eatout_rating INT NOT NULL,
+    tv_rating INT NOT NULL
+);
